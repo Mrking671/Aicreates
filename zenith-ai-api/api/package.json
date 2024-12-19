@@ -1,0 +1,10 @@
+{
+  "name": "zenith-ai-api",
+  "version": "1.0.0",
+  "description": "Zenith AI serverless function for Vercel",
+  "main": "api/fetch.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
